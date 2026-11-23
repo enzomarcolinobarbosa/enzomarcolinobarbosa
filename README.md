@@ -3,7 +3,7 @@
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://github.com/enzomarcolinobarbosa">
     <img src="https://img.shields.io/badge/GitHub-enzomarcolinobarbosa-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/enzo.mrcln">
@@ -32,10 +32,7 @@
 
 ### Backend
 
-![Prisma](https://img.shields.io/badge/python-2D3748?style=for-the-badge&logo=python)
-### DevOps & Tools
-
-
+![Python](https://img.shields.io/badge/python-2D3748?style=for-the-badge&logo=python)
 
 ---
 
